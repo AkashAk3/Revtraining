@@ -1,4 +1,3 @@
 a=45
-b=30
+b=33
 print(a+b)
-print(b)
